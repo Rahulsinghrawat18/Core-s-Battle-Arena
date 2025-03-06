@@ -5,6 +5,6 @@ Core's Battle Arena is a strategy-based board game where two players, each contr
 https://www.youtube.com/
 
 ## Key Features
-### *2-Player Gameplay
-### *Unique Adventurer Roles and Abilities of Pieces
-### *Shape chain integration
+* ####  2-Player Gameplay
+* ####  Unique Adventurer Roles and Abilities of Pieces
+* ####  Shape chain integration
