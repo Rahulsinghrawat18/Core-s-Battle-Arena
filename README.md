@@ -7,7 +7,7 @@ https://www.youtube.com/
 ## Key Features
 * ####  2-Player Gameplay
 * ####  Unique Adventurer Roles and Abilities of Pieces
-* ####  Shape chain integration
+* ####  Core Blockchain integration
 
 ## Objective
 The goal is to strategically maneuver your pieces and place one on your opponent's base to win the game.
