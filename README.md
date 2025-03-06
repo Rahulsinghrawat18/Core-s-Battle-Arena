@@ -89,9 +89,10 @@ The person who wins gets 100 WIN tokens as reward which he can see in his wallet
 # The Contract
 
 Core's Battle Arena Contract Address - 0x1AA7a043487bf78C64B28b810dE8c63246B04edc
+
 WIN Token Address - 0x6D9616C0040ee13284794960A2957B941007A728
-Block Explorer Link -[https://scan.test2.btcs.network/address/0x1AA7a043487bf78C64B28b810dE8c63246B04edc]
-(https://scan.test2.btcs.network/address/0x1AA7a043487bf78C64B28b810dE8c63246B04edc)
+
+Block Explorer Link - https://scan.test2.btcs.network/address/0x1AA7a043487bf78C64B28b810dE8c63246B04edc
 
 
 
