@@ -10,6 +10,9 @@ https://www.youtube.com/
 * ####  2-Player Gameplay
 * ####  Unique Adventurer Roles and Abilities of Pieces
 * ####  Core Blockchain integration
+             1.Character Skins Purchase: Users can buy character skins using Core.
+             2.Exclusive Collab Skins: Special Core collaboration skins are available for purchase.
+             3.Reward System: Players earn WIN tokens upon victory.
 
 ## Objective
 The goal is to strategically maneuver your pieces and place one on your opponent's base to win the game.
