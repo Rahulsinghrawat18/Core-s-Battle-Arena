@@ -4,7 +4,7 @@ Core's Battle Arena is a strategy-based board game where two players, each contr
 Check out the live deployment here: [Core Battle Arena!](https://core-battle-arena.vercel.app/) 🚀
 
 ## Demo-Video
-https://www.youtube.com/
+[DEMO](https://www.youtube.com/watch?v=EQ0BECZaLW0) 🚀
 
 ## Key Features
 * ####  2-Player Gameplay
@@ -34,6 +34,13 @@ The goal is to strategically maneuver your pieces and place one on your opponent
 * ####  Blockchain: Foundry ( Contract deployed on Core Testnet )
 * ####  Smart contract Connection: Ethers.js
 
+ ### Core Chain Configuration for Metamask
+- **Network Name**: Core Blockchain Testnet
+- **RPC URL**: https://rpc.test2.btcs.network/
+- **Chain ID**: 1114
+- **Currency Symbol**: CORE
+- **Block Explorer URL**: https://scan.test2.btcs.network/
+
 ## The Game
 
 ![Screenshot (1)](https://github.com/user-attachments/assets/71997b4f-1d95-47f2-afe6-e62fda2f7cea)
@@ -52,7 +59,7 @@ A player can create room and get the room code which can then be shared with the
 ![Screenshot (7)](https://github.com/user-attachments/assets/ec979c6b-c96e-4b95-a908-644ffd097799)
 
 ## Connect Wallet and Skins
-A player can choose to connect their wallet. The code is set up to connect to shape sepolia since the contract was deployed on that. Although it is also set to ask permission to add the testnet if not present in user's metamask, iff facing issue, make sure to add and switch to shape sepolia testnet before connecting wallet. Else if connected wallet but not on shape sepolia, you will be able to see current skins and the ones for collab but will be unable to buy the skins through smart contract.
+A player can choose to connect their wallet. The code is set up to connect to Core Testnet since the contract was deployed on that. Although it is also set to ask permission to add the testnet if not present in user's metamask, if facing issue, make sure to add and switch to Core testnet before connecting wallet. Else if connected wallet but not on shape sepolia, you will be able to see current skins and the ones for collab but will be unable to buy the skins through smart contract.
 
 ### Current Skins
 Shows the current equipped skins of the player. Go to lobby, reload page, and come back if you want to change to default skins after changing the skins.
