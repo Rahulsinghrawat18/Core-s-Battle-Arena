@@ -98,6 +98,14 @@ The person who wins gets 100 WIN tokens as reward which he can see in his wallet
 
 ![Screenshot (15)](https://github.com/user-attachments/assets/4d1bfd58-c0c1-48b5-807d-6cb20f126f9f)
 
+## What's Next
+- **1.** Design more interesting game UI.
+- **2.** Introduce more maps and boards for variety in difficulty levels.
+- **3.** Player will be able to purchase skins through WIN tokens.
+- **4.** Introduce a diverse range of skins and characters with enhanced abilities, allowing players to personalize their experience while adding strategic depth to the game. Unique 
+         abilities will offer varied playstyles, making battles more dynamic and engaging.
+- **5.** Deploy it on Core Blockchain Mainnet.
+
 # The Contract
 
 Core's Battle Arena Contract Address - 0x1AA7a043487bf78C64B28b810dE8c63246B04edc
